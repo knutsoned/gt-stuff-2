@@ -1,1 +1,1 @@
-# gt-stuff-2
+# gt-stuff-2## Installation```stMetacello new	repository: 'github://knutsoned/gt-stuff-2:main/src';	baseline: 'GtStuff2';	load```## Load Lepiter				After installing with Metacello, you will be able to execute```#BaselineOfGtStuff2 asClass loadLepiter```
